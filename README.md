@@ -23,7 +23,7 @@ downloads/
 Requires [Node.js](https://nodejs.org/) (v18+) and [Google Chrome](https://www.google.com/chrome/).
 
 ```bash
-git clone https://github.com/yourusername/midjourney-likes-downloader.git
+git clone https://github.com/RiccardoGrin/midjourney-likes-downloader.git
 cd midjourney-likes-downloader
 npm install
 ```
