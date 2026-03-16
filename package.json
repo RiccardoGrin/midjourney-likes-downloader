@@ -1,0 +1,11 @@
+{
+  "name": "midjourney-likes-downloader",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "download": "node download.mjs"
+  },
+  "dependencies": {
+    "playwright": "^1.52.0"
+  }
+}
